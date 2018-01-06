@@ -40,7 +40,8 @@
  <!--   <string name="wallpaper_json">https://next.json-generator.com/api/json/get/EkvT-6PmV</string>-->
 
 
-    <string name="wallpaper_json">https://next.json-generator.com/api/json/get/V1EH60P7E</string>
+    <!--<string name="wallpaper_json">https://next.json-generator.com/api/json/get/V1EH60P7E</string>-->
+    <string name="wallpaper_json">https://next.json-generator.com/api/json/get/Ny6hO-cQN</string>
 
     <!-- Allow to download wallpaper
     * If disabled user only able to apply wallpaper from dashboard -->
