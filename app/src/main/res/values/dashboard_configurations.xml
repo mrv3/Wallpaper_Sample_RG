@@ -111,6 +111,7 @@
     * Take a look inside values/xml/contributors.xml to add contributors -->
     <bool name="show_contributors_dialog">false</bool>
 
+
     <!-- CONFIG: DONATE -->
 
     <!-- DONATION
